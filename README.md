@@ -6,6 +6,8 @@ This project implements an **enterprise-grade analytical reporting model** built
 
 The solution enables consistent analysis of **shipment volume, revenue, profit, sales performance, and geographic distribution**, with a strong focus on **time-based comparison and profitability**.
 
+## Dashboard
+![Dashboard](images/Dashboard Overview.jpg)
 ---
 
 
