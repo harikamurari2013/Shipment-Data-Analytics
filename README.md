@@ -75,6 +75,6 @@ This project demonstrates **enterprise BI architecture, semantic modeling discip
 ---
 
 ## Author
-**Kranthi Kumar**  
+**Harika Murari**  
 Data Engineer | BI Engineer  
 Power BI • DAX • SQL
