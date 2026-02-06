@@ -8,6 +8,7 @@ The solution enables consistent analysis of **shipment volume, revenue, profit, 
 
 ---
 
+
 ## Architecture & Data Model
 - **Star Schema**
 - **Fact Table**: Shipments (Amount, Boxes, Cost, Profit)
