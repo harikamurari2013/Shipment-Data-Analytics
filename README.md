@@ -8,6 +8,9 @@ The solution enables consistent analysis of **shipment volume, revenue, profit, 
 
 ## Dashboard
 ![Dashboard](images/Dashboard-Overview.jpg)
+
+## Data Model
+![Data Model](images/data-model.jpg)
 ---
 
 
